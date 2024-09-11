@@ -1,0 +1,9 @@
+Started by user FFF
+Running as SYSTEM
+Building in workspace C:\ProgramData\Jenkins\.jenkins\workspace\test
+[test] $ cmd /c call C:\WINDOWS\TEMP\jenkins14716432659151054980.bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\test>"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.9\Python 3.9 (64-bit).lnk" C:\Users\dimaf\Desktop\sw_metrics\test_wrapper.py 
+
+C:\ProgramData\Jenkins\.jenkins\workspace\test>exit 0 
+Finished: SUCCESS

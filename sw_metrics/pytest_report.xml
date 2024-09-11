@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="2" time="0.019" timestamp="2024-09-11T20:32:12.217491+03:00" hostname="RUINERka"><testcase classname="test_infinite" name="test_infinite" time="0.001" /><testcase classname="test_wrapper" name="test_wrapper" time="0.001" /></testsuite></testsuites>
